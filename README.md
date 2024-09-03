@@ -21,5 +21,5 @@ The app gives out a percentage the person fits into each categories, making it e
 ### File Structure:
 In `/app/src/main/`:
 - java folder contains all Java code for the frontend.
-- python folder contains social media scraper and BERT model.
+- python folder contains social media scraper and Tokenisers and encoders(Bert) to understand the text and perform downstream task of classification.
 - res folder contains XML layouts for the Android app.
